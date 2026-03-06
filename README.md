@@ -21,7 +21,7 @@ This project analyzes global tuberculosis data using SQL to identify high-burden
 
 ## Files
 - `tuberculosis_analysis.sql`
-- `tuberculosis_data.csv`
-
+- `Tb_Burden_Country.csv`
+  
 ## Author
 Hannah Durden
